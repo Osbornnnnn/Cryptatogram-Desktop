@@ -1,2 +1,2 @@
-# Pytatogram-Desktop
-Experimental Telegram Desktop fork
+# Cryptatogram-Desktop
+Experimental Telegram Desktop not fork
